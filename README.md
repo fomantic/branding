@@ -21,5 +21,5 @@ All assets within this repository are released under [MIT license](LICENSE.md) a
   - [Logo AI](assets/logo.ai)
   - [Logo SVG](assets/logo.svg)
 
-### Colors
+### Colors:
 [![Fomantic Colors](assets/colors.png)](assets/colors.png)
