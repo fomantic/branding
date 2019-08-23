@@ -20,6 +20,9 @@ All assets within this repository are released under [MIT license](LICENSE.md) a
     - [32x32](assets/logo/jpg/32.jpg)
   - [Logo AI](assets/logo.ai)
   - [Logo SVG](assets/logo.svg)
+  - [Twitter Banner](assets/twitter-banner/twitter-banner.png)
+  - [Discord Invite Background](assets/discord-invite-background/discord-invite-background.png)
+  - [GitHub Social Image](assets/github-social-image/github-social-image.png)
 
 ### Colors:
 [![Fomantic Colors](assets/colors.png)](assets/colors.png)
